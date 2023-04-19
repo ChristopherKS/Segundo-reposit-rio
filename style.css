@@ -5,10 +5,9 @@ body {
 header {
     background-color: black;
     color: white;
+}
 
-    .cabecalho-imagem
-        width: 20%;
-        
-    
+    .cabecalho-imagem{
+        width: 20%; 
     
 }
