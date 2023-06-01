@@ -35,8 +35,9 @@ header {
 .secao1 {
     background-image: linear-gradient(#9966CC,#007FFF);
     color:antiquewhite;
-
-
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
 }
 
 .secao1-titulo{
