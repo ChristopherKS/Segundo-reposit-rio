@@ -9,7 +9,9 @@ body {
 
 header {
     background-color: black;
-    color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+    
+    
 }
 
 .cabecalho{
