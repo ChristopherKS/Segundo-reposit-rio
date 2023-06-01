@@ -41,10 +41,16 @@ header {
 }
 
 .secao1-titulo{
+    padding: 24px 0;
 
 
 }
 
 .secao1-imagem{
     width: 100%;
+}
+
+.secao1-div-conteudo{
+    width: 35%;
+
 }
